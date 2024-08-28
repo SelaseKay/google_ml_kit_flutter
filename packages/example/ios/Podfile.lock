@@ -153,7 +153,7 @@ PODS:
     - MLKitCommon (~> 11.0)
     - MLKitVision (~> 7.0)
   - MLKitCommon (11.0.0):
-    - GoogleDataTransport (< 10.0, >= 9.4.1)
+    - GoogleDataTransport (~> 11.0)
     - GoogleToolboxForMac/Logger (< 5.0, >= 4.2.1)
     - "GoogleToolboxForMac/NSData+zlib (< 5.0, >= 4.2.1)"
     - GoogleUtilities/UserDefaults (< 8.0, >= 7.13.0)
